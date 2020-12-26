@@ -1,0 +1,5 @@
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/build/CMakeFiles/edit_cache.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/build/CMakeFiles/ErstenZehnRegelmaessigenNEcke.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/build/CMakeFiles/rebuild_cache.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/build/CMakeFiles/ueberschlagendePolygone.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/build/CMakeFiles/polypoint.dir

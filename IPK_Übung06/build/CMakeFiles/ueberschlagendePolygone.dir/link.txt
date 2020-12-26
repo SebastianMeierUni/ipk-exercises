@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ueberschlagendePolygone.dir/ueberschlagendePolygone.cc.o  -o ueberschlagendePolygone  libpolypoint.a 

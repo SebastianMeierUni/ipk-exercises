@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mean.dir/mean.cc.o CMakeFiles/mean.dir/statistics.cc.o CMakeFiles/mean.dir/io.cc.o  -o mean 

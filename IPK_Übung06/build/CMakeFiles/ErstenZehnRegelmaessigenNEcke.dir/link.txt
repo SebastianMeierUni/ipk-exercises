@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ErstenZehnRegelmaessigenNEcke.dir/ErstenZehnRegelmaessigenNEcke.cc.o  -o ErstenZehnRegelmaessigenNEcke  libpolypoint.a 

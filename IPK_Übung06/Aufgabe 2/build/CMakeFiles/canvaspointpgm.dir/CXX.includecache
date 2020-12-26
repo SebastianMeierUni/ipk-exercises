@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/canvas.cc
+canvas.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/canvas.hh
+iostream
+-
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/canvas.hh
+point.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/point.hh
+vector
+-
+string
+-
+pgm.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/pgm.hh
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/pgm.cc
+pgm.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/pgm.hh
+cmath
+-
+fstream
+-
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/pgm.hh
+string
+-
+vector
+-
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/point.cc
+point.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/point.hh
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/point.hh
+

@@ -1,0 +1,33 @@
+Start testing: Dec 09 15:30 CET
+----------------------------------------------------------
+1/2 Testing: Mean
+1/2 Test: Mean
+Command: "/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/build/mean"
+Directory: /home/smeier/Arbeitswerk/Übungen/IPK_Übung05/build
+"Mean" start time: Dec 09 15:30 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Failed.
+"Mean" end time: Dec 09 15:30 CET
+"Mean" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Median
+2/2 Test: Median
+Command: "/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/build/median"
+Directory: /home/smeier/Arbeitswerk/Übungen/IPK_Übung05/build
+"Median" start time: Dec 09 15:30 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Median" end time: Dec 09 15:30 CET
+"Median" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 15:30 CET

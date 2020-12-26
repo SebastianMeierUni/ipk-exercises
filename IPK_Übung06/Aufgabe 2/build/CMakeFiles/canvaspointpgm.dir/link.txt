@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcanvaspointpgm.a  CMakeFiles/canvaspointpgm.dir/canvas.cc.o CMakeFiles/canvaspointpgm.dir/point.cc.o CMakeFiles/canvaspointpgm.dir/pgm.cc.o
+/usr/bin/ranlib libcanvaspointpgm.a

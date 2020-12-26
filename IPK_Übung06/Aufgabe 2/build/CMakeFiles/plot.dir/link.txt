@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/plot.dir/plot.cc.o  -o plot  libcanvaspointpgm.a 

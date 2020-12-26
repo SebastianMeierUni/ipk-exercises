@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testcorners.dir/testcorners.cc.o  -o testcorners  libcanvaspointpgm.a 

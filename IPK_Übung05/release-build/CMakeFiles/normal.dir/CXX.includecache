@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/io.hh
+vector
+-
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/normal.cc
+iostream
+-
+io.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/io.hh
+vector
+-
+statistics.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/statistics.hh
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung05/statistics.hh
+vector
+-
+algorithm
+-
+cmath
+-
+array
+-
+

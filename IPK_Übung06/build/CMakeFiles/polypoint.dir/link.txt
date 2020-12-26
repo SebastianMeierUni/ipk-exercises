@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpolypoint.a  CMakeFiles/polypoint.dir/polygon.cc.o CMakeFiles/polypoint.dir/point.cc.o
+/usr/bin/ranlib libpolypoint.a

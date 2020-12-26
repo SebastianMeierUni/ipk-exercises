@@ -1,0 +1,6 @@
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/rebuild_cache.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/edit_cache.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/test.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/testcorners.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/plot.dir
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/CMakeFiles/canvaspointpgm.dir

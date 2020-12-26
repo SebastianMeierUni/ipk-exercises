@@ -1,0 +1,18 @@
+Start testing: Dec 18 21:56 CET
+----------------------------------------------------------
+1/1 Testing: Testcorners
+1/1 Test: Testcorners
+Command: "/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build/testcorners"
+Directory: /home/smeier/Arbeitswerk/Übungen/IPK_Übung06/Aufgabe 2/build
+"Testcorners" start time: Dec 18 21:56 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"Testcorners" end time: Dec 18 21:56 CET
+"Testcorners" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 21:56 CET

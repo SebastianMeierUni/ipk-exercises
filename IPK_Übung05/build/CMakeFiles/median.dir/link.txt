@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/median.dir/median.cc.o CMakeFiles/median.dir/statistics.cc.o CMakeFiles/median.dir/io.cc.o  -o median 

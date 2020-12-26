@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/point.hh
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/polygon.hh
+vector
+-
+point.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/point.hh
+
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/test1.cc
+iostream
+-
+cmath
+-
+vector
+-
+cassert
+-
+polygon.hh
+/home/smeier/Arbeitswerk/Übungen/IPK_Übung06/polygon.hh
+
