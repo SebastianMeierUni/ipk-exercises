@@ -1,2 +1,2 @@
-Hallo, dass hier ist meine helpme Datei!
+Hallo, dass hier ist meine eigene helpme Datei!
 Schritt eins wurde geschafft.
