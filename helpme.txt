@@ -1,1 +1,2 @@
-Hallo, dass hier ist eine helpme Datei!
+Hallo, dass hier ist meine helpme Datei!
+Schritt eins wurde geschafft.
